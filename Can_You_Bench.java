@@ -5,10 +5,7 @@ import java.util.Scanner;
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int result = n + (2* 10);
-
         System.out.println(result);
-
-
 
 
 
